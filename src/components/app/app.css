@@ -1,0 +1,8 @@
+.content-view{
+  min-height:100vh;
+  background-color:rgb(23, 218, 153);
+}
+
+.container{
+  min-height:100vh;
+}

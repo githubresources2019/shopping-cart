@@ -1,0 +1,13 @@
+.add-to-cart{
+    height:50px;
+}
+.product-text{
+    font-size: 15px;
+    line-height: 36px;
+}
+
+.product-text .col {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
